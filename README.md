@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠️ Tech Stack [![My Skills](https://skillicons.dev/icons?i=,html,css,js,react,tailwind,materialui,postman,git,github,vscode,linkedin,vite,svg,netlify,)](https://skillicons.dev)
+## 🛠️ Tech Stack 
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,materialui,figma,git,github,vscode,vite" />
