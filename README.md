@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,html,css,js,react,tailwind,materialui,postman,git,github,vscode,linkedin,vite,svg,netlify,)](https://skillicons.dev)
 
 - 👋 Hi, I’m @mushtaq4web
 - 👀 I’m interested in making a interactive web pages
