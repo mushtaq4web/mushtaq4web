@@ -1,3 +1,5 @@
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 - 👋 Hi, I’m @mushtaq4web
 - 👀 I’m interested in making a interactive web pages
 - 🌱  I’m currently diving deep into full-stack web development to sharpen my skills.
